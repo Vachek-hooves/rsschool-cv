@@ -20,11 +20,11 @@ people of defferent cultures. I`m a friendly,responsive
 and disciplined person.</p>
 
 >### WORK EXPERIANCE
-<br>
+
 
 #### Marine Engineer BSM
 
-*<p>January 2011 - till November 2021 I World Wide</p>*
+*January 2011 - till November 2021 I World Wide*
 
 * Prepared and distributed daily reports on crew
 routine issues and progress.
@@ -35,24 +35,29 @@ and emergency duties
 * Implement best ptactices and
 troubleshooting techniques to resolve
 machinery issues.
+
 ***
+
 >### EDUCATION HISTORY
-<br>
+
 
 ### Kyiv National maritime academy
 
-*<p>January 2011 - till November 2021 I World Wide</p>*
+*January 2011 - till November 2021 I World Wide*
 
 * Specialist in operation of marine
 powerplant
 
 ### Beetroot academy
 
-*<p>Oct 2022 - Jan 2023</p>*
+*Oct 2022 - Jan 2023*
 
 * Front-End developer- course 
+
 ***
+
 >### TEACH SKILLS
+
 * HTML
 * CSS3
 * JavaScript (Fundamentals, ES6+, DOM, JSON)
@@ -66,7 +71,10 @@ powerplant
         .then(data=>{data.main})
 }
 ```
+
 > ### Codewars example
+
+
 ```
 Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
 
@@ -89,8 +97,11 @@ for (let i=0; i<arrayOfSheep.length; i++){
 }
 
 ```
+
 ***
+
 >### SOFT SKILLS
+
 * EF SET - C1 level. And participating in eglish speaking club twice a week.
 
 ><img src="./img/EF-TEST.png" alt="profile photo" width="20%" height="10%">
@@ -100,13 +111,16 @@ for (let i=0; i<arrayOfSheep.length; i++){
 hours.
 
 ***
+
 > #### CONTACT ME AT
 
 
 ```
+
 tel:         067 505 96 25
 e-mail:      vachek0602@gmail.com
 location:    Kyiv., Ukraine
 discord:     Viacheslav#5786
 GitHub:      Vachek-hooves
+
 ```
