@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Vachek-hooves.github.io/rsschool-cv/cv
